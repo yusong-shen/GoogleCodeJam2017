@@ -8,8 +8,11 @@ Problems :
 https://code.google.com/codejam/contest/3264486/dashboard
 
 A. Oversized Pancake Flipper
+
 B. Tidy Numbers
+
 C. Bathroom Stalls
+
 D. Fashion Show (TODO)
 
 Analysis :
